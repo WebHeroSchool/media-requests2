@@ -1,0 +1,12 @@
+.header__burger {
+  display: none;
+}
+
+@media (max-width: 768px) {
+  .header__burger {
+    height: 3px;
+    border-radius: 1px;
+    background-color: red;
+    margin-bottom: 7px;
+  }
+}
