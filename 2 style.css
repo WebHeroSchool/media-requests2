@@ -1,0 +1,15 @@
+@media (min-width: 320px) {
+  .wrap__title {
+    font-size: 15px;
+  }
+}
+@media (min-width: 641px) {
+  .wrap__title {
+    font-size: 35px;
+  }
+}
+@media (min-width: 1281px) {
+  .wrap__title {
+    font-size: 70px;
+  }
+}
